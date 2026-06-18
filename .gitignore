@@ -1,0 +1,7 @@
+node_modules/
+backend/node_modules/
+backend/.env
+backend/k.txt
+backend/npm
+*.env
+.env.local

@@ -1,0 +1,6895 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "updated": "2026-06-16",
+    "total": 235,
+    "source": "techmart.bg + AiOn curated",
+    "by_technology": {
+      "LED": 148,
+      "QLED": 34,
+      "MiniLED": 27,
+      "OLED": 26
+    }
+  },
+  "products": [
+    {
+      "id": "45614",
+      "model": "Philips 32PHS5500/12",
+      "brand": null,
+      "price_bgn": 125.99,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40851",
+      "model": "CHiQ L32M9V",
+      "brand": null,
+      "price_bgn": 131.99,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40098",
+      "model": "ARIELLI QLED32N215VDA SMART",
+      "brand": null,
+      "price_bgn": 132.42,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "43942",
+      "model": "Metz 32MTF6000Z",
+      "brand": null,
+      "price_bgn": 134.9,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44169",
+      "model": "ARIELLI QLED32N116VDA SMART",
+      "brand": null,
+      "price_bgn": 134.99,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "40099",
+      "model": "ARIELLI LED32N115VDA SMART",
+      "brand": null,
+      "price_bgn": 135.49,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "38881",
+      "model": "ARIELLI LED32N215VDA SMART",
+      "brand": null,
+      "price_bgn": 137,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "36734",
+      "model": "ARIELLI LED32N218VDA SMART",
+      "brand": null,
+      "price_bgn": 137.54,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "35119",
+      "model": "Монитор с тв тунер LG 24TQ510S-PZ",
+      "brand": null,
+      "price_bgn": 139,
+      "budget_tier": "low",
+      "size_inch": 24,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "35120",
+      "model": "Монитор с тв тунер LG 24TQ510S-WZ",
+      "brand": null,
+      "price_bgn": 139,
+      "budget_tier": "low",
+      "size_inch": 24,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "39044",
+      "model": "Metz 32MTE6000Y",
+      "brand": null,
+      "price_bgn": 139,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44152",
+      "model": "CHiQ L32FM10V",
+      "brand": null,
+      "price_bgn": 139,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "38459",
+      "model": "ARIELLI LED32N216VDA SMART",
+      "brand": null,
+      "price_bgn": 140.61,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44250",
+      "model": "ARIELLI QLED32QM10GTV SMART",
+      "brand": null,
+      "price_bgn": 147.76,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "43839",
+      "model": "CHiQ LKD32QM10GP",
+      "brand": null,
+      "price_bgn": 149,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "36299",
+      "model": "TCL LED 32S5400AF",
+      "brand": null,
+      "price_bgn": 159,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44085",
+      "model": "TCL QLED32S4K",
+      "brand": null,
+      "price_bgn": 159,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "QLED",
+      "resolution": "4K",
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "40883",
+      "model": "TCL QLED 32S49K",
+      "brand": null,
+      "price_bgn": 163.1,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "28175",
+      "model": "LG LED 32LQ630B6LA",
+      "brand": null,
+      "price_bgn": 164.99,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "38626",
+      "model": "KIVI 32KIDS TV SMART",
+      "brand": null,
+      "price_bgn": 169,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "39824",
+      "model": "LG LED 32LR60006LA",
+      "brand": null,
+      "price_bgn": 169,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "43825",
+      "model": "Metz 32MQE7100Z",
+      "brand": null,
+      "price_bgn": 174.9,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44021",
+      "model": "Metz 40MTF6000Z",
+      "brand": null,
+      "price_bgn": 174.9,
+      "budget_tier": "low",
+      "size_inch": 40,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "28174",
+      "model": "LG LED 32LQ63006LA",
+      "brand": null,
+      "price_bgn": 178.44,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "28699",
+      "model": "LG LED 32LQ631C0ZA",
+      "brand": null,
+      "price_bgn": 179,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "39045",
+      "model": "Metz 40MTE6000Z",
+      "brand": null,
+      "price_bgn": 179,
+      "budget_tier": "low",
+      "size_inch": 40,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "39848",
+      "model": "KIVI 40F730QB",
+      "brand": null,
+      "price_bgn": 179,
+      "budget_tier": "low",
+      "size_inch": 40,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44351",
+      "model": "Philips 40PFS6000/12",
+      "brand": null,
+      "price_bgn": 184.9,
+      "budget_tier": "low",
+      "size_inch": 40,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44154",
+      "model": "TCL QLED 32S5K",
+      "brand": null,
+      "price_bgn": 169.99,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "44230",
+      "model": "ARIELLI QLED40QM10GTV SMART",
+      "brand": null,
+      "price_bgn": 188.67,
+      "budget_tier": "low",
+      "size_inch": 40,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "36603",
+      "model": "TCL LED 40S5400A",
+      "brand": null,
+      "price_bgn": 189,
+      "budget_tier": "low",
+      "size_inch": 40,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40595",
+      "model": "ARIELLI LED40N118VDA SMART",
+      "brand": null,
+      "price_bgn": 189,
+      "budget_tier": "low",
+      "size_inch": 40,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40853",
+      "model": "CHiQ L40G7B",
+      "brand": null,
+      "price_bgn": 189,
+      "budget_tier": "low",
+      "size_inch": 40,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44372",
+      "model": "CHiQ L40M10V",
+      "brand": null,
+      "price_bgn": 189,
+      "budget_tier": "low",
+      "size_inch": 40,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44373",
+      "model": "CHiQ L32M9PD",
+      "brand": null,
+      "price_bgn": 189,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "37650",
+      "model": "ARIELLI LED40N218VDA SMART",
+      "brand": null,
+      "price_bgn": 193.78,
+      "budget_tier": "low",
+      "size_inch": 40,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "39245",
+      "model": "SmartTech 43UG02V",
+      "brand": null,
+      "price_bgn": 199,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44427",
+      "model": "CHiQ LKD40QM10GP",
+      "brand": null,
+      "price_bgn": 199,
+      "budget_tier": "low",
+      "size_inch": 40,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40151",
+      "model": "TCL LED 43S51B",
+      "brand": null,
+      "price_bgn": 199.99,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44079",
+      "model": "TCL QLED 40S5K",
+      "brand": null,
+      "price_bgn": 199.99,
+      "budget_tier": "low",
+      "size_inch": 40,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "44359",
+      "model": "CHiQ LKD43M10GP",
+      "brand": null,
+      "price_bgn": 209,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44337",
+      "model": "ARIELLI QLED43QM10GTV SMART",
+      "brand": null,
+      "price_bgn": 199.99,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "38176",
+      "model": "KIVI 43U750NB",
+      "brand": null,
+      "price_bgn": 219,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40101",
+      "model": "ARIELLI QLED43N218VDA SMART",
+      "brand": null,
+      "price_bgn": 219,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "40120",
+      "model": "Philips 43PFS6808/12",
+      "brand": null,
+      "price_bgn": 219,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44455",
+      "model": "Philips 32PFS6900/12",
+      "brand": null,
+      "price_bgn": 219,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44458",
+      "model": "CHiQ LKD43QM10GP",
+      "brand": null,
+      "price_bgn": 219,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40881",
+      "model": "TCL QLED 43S59K",
+      "brand": null,
+      "price_bgn": 219.99,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "40965",
+      "model": "KIVI 43U730QB",
+      "brand": null,
+      "price_bgn": 229,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44391",
+      "model": "TCL QLED 43S5K",
+      "brand": null,
+      "price_bgn": 229,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "44486",
+      "model": "LG LED 43LR60006LA",
+      "brand": null,
+      "price_bgn": 199,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "38769",
+      "model": "Philips 43PUS7609/12",
+      "brand": null,
+      "price_bgn": 239,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44434",
+      "model": "ARIELLI QLED43UD10GTV SMART",
+      "brand": null,
+      "price_bgn": 244.91,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "37900",
+      "model": "Philips 43PUS7009/12",
+      "brand": null,
+      "price_bgn": 249,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40680",
+      "model": "TCL LED 43P69K",
+      "brand": null,
+      "price_bgn": 249,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "43916",
+      "model": "LG LED 43UA74003LB",
+      "brand": null,
+      "price_bgn": 249,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40086",
+      "model": "LG LED 43UR78GC0LK",
+      "brand": null,
+      "price_bgn": 259.99,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44368",
+      "model": "Samsung UE43U8072FUXXH",
+      "brand": null,
+      "price_bgn": 264.9,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "39637",
+      "model": "Metz 24MPE7000Y",
+      "brand": null,
+      "price_bgn": 264.99,
+      "budget_tier": "low",
+      "size_inch": 24,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "39638",
+      "model": "Metz 24MPE7000Z",
+      "brand": null,
+      "price_bgn": 264.99,
+      "budget_tier": "low",
+      "size_inch": 24,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44032",
+      "model": "Metz 24MPE7300Z.H",
+      "brand": null,
+      "price_bgn": 265.36,
+      "budget_tier": "low",
+      "size_inch": 24,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44190",
+      "model": "Metz 24MPE7200Z.H",
+      "brand": null,
+      "price_bgn": 265.36,
+      "budget_tier": "low",
+      "size_inch": 24,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "41362",
+      "model": "LG LED 43UA73003LA",
+      "brand": null,
+      "price_bgn": 239.99,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44142",
+      "model": "LG LED 43UA75003LA",
+      "brand": null,
+      "price_bgn": 269,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "43885",
+      "model": "Philips 43PUS7810/12",
+      "brand": null,
+      "price_bgn": 269.99,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40642",
+      "model": "ARIELLI LED50F115VDA SMART",
+      "brand": null,
+      "price_bgn": 275.59,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "38773",
+      "model": "Philips 43PUS8319/12",
+      "brand": null,
+      "price_bgn": 279,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "39046",
+      "model": "Metz 43MQE7600Z",
+      "brand": null,
+      "price_bgn": 279,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "39052",
+      "model": "Philips 43PUS8009/12",
+      "brand": null,
+      "price_bgn": 279,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "39950",
+      "model": "Philips 43PUS8209/12",
+      "brand": null,
+      "price_bgn": 279,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "38312",
+      "model": "Metz 50MUD7000Z",
+      "brand": null,
+      "price_bgn": 279.99,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "36583",
+      "model": "TCL LED 50P735",
+      "brand": null,
+      "price_bgn": 289,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44318",
+      "model": "CHiQ UJA50QM10GP",
+      "brand": null,
+      "price_bgn": 259.99,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44417",
+      "model": "Philips 43PUS8010/12",
+      "brand": null,
+      "price_bgn": 289,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44432",
+      "model": "Philips 43PUS8400/12",
+      "brand": null,
+      "price_bgn": 289.9,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44287",
+      "model": "ARIELLI QLED50UD10GTV SMART",
+      "brand": null,
+      "price_bgn": 290.93,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "44448",
+      "model": "ARIELLI QLED50UD15GTV SMART",
+      "brand": null,
+      "price_bgn": 290.93,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "38407",
+      "model": "ARIELLI LED55N215VDA SMART",
+      "brand": null,
+      "price_bgn": 299,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44369",
+      "model": "Samsung QE43Q7FAAUXXH",
+      "brand": null,
+      "price_bgn": 299,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44438",
+      "model": "Samsung UE50U8072FUXXH",
+      "brand": null,
+      "price_bgn": 299,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "45553",
+      "model": "TCL QLED 50S5K",
+      "brand": null,
+      "price_bgn": 299,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "44933",
+      "model": "Philips 43PUS8510/12",
+      "brand": null,
+      "price_bgn": 299.9,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "38413",
+      "model": "ARIELLI LED50N215VDA SMART",
+      "brand": null,
+      "price_bgn": 306.26,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44015",
+      "model": "TCL QLED 43P7K",
+      "brand": null,
+      "price_bgn": 306.26,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "40890",
+      "model": "LG LED 43NANO80A3B",
+      "brand": null,
+      "price_bgn": 309,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "41699",
+      "model": "Samsung UE55U8072FUXXH",
+      "brand": null,
+      "price_bgn": 309,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44524",
+      "model": "LG LED 50UA73003LA",
+      "brand": null,
+      "price_bgn": 289.99,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40681",
+      "model": "TCL LED 50P69K",
+      "brand": null,
+      "price_bgn": 315.9,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "43932",
+      "model": "LG LED 55UA74003LB",
+      "brand": null,
+      "price_bgn": 319,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44333",
+      "model": "LG LED 43QNED70A6A",
+      "brand": null,
+      "price_bgn": 299,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "45781",
+      "model": "LG LED 43NU800B3LC",
+      "brand": null,
+      "price_bgn": 319,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44284",
+      "model": "Philips 55PUS7000/12",
+      "brand": null,
+      "price_bgn": 299,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44428",
+      "model": "CHiQ UJA55QM10GP",
+      "brand": null,
+      "price_bgn": 329,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "39821",
+      "model": "LG LED 50UT73003LA",
+      "brand": null,
+      "price_bgn": 329.99,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40544",
+      "model": "ARIELLI QLED55F215VDA SMART",
+      "brand": null,
+      "price_bgn": 331.83,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "40547",
+      "model": "ARIELLI QLED50F215VDA SMART",
+      "brand": null,
+      "price_bgn": 331.83,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "40632",
+      "model": "ARIELLI LED55F115VDA SMART",
+      "brand": null,
+      "price_bgn": 336.94,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44328",
+      "model": "ARIELLI QLED55UD10GTV SMART",
+      "brand": null,
+      "price_bgn": 299.99,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "44329",
+      "model": "ARIELLI QLED55UD15GTV SMART",
+      "brand": null,
+      "price_bgn": 336.94,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "34473",
+      "model": "Sony KD32W800P1B",
+      "brand": null,
+      "price_bgn": 299,
+      "budget_tier": "low",
+      "size_inch": 32,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "38770",
+      "model": "Philips 50PUS7609/12",
+      "brand": null,
+      "price_bgn": 339,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "43918",
+      "model": "LG LED 50UA74003LB",
+      "brand": null,
+      "price_bgn": 339,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "35727",
+      "model": "LG LED 55UR781C0LK",
+      "brand": null,
+      "price_bgn": 339.99,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44503",
+      "model": "Metz 50MQE7600Z",
+      "brand": null,
+      "price_bgn": 347.17,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "41363",
+      "model": "LG LED 55UA73003LA",
+      "brand": null,
+      "price_bgn": 329.99,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "43977",
+      "model": "TCL QLED 43C655",
+      "brand": null,
+      "price_bgn": 349,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "39725",
+      "model": "SmartTech 65UV10V1",
+      "brand": null,
+      "price_bgn": 349.99,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "43872",
+      "model": "Samsung UE55U8092FUXXH",
+      "brand": null,
+      "price_bgn": 319.99,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40856",
+      "model": "CHiQ U55QM8V",
+      "brand": null,
+      "price_bgn": 355,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "38156",
+      "model": "Samsung UE55DU7192UXXH",
+      "brand": null,
+      "price_bgn": 357.39,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40909",
+      "model": "TCL QLED 50P79K",
+      "brand": null,
+      "price_bgn": 359.99,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "40891",
+      "model": "LG LED 43QNED80A3A",
+      "brand": null,
+      "price_bgn": 369,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "43892",
+      "model": "LG LED 50NANO80A3B",
+      "brand": null,
+      "price_bgn": 369,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "38308",
+      "model": "Metz 55MQD7500Z",
+      "brand": null,
+      "price_bgn": 369.99,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44028",
+      "model": "Metz 55MQF7500Z",
+      "brand": null,
+      "price_bgn": 379.9,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44378",
+      "model": "Metz 60MUF7000Z",
+      "brand": null,
+      "price_bgn": 359.99,
+      "budget_tier": "low",
+      "size_inch": null,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44350",
+      "model": "LG LED 55UA75006LA",
+      "brand": null,
+      "price_bgn": 382.96,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44381",
+      "model": "TCL QLED 55P7K",
+      "brand": null,
+      "price_bgn": 388.99,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "45841",
+      "model": "ARIELLI MQLED-50N10T SMART",
+      "brand": null,
+      "price_bgn": 389,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "43954",
+      "model": "TCL QLED 50P7K",
+      "brand": null,
+      "price_bgn": 393.18,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "39907",
+      "model": "LG LED 55UR78GC0LK",
+      "brand": null,
+      "price_bgn": 399,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44139",
+      "model": "LG LED 50QNED70A6A",
+      "brand": null,
+      "price_bgn": 399,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "45784",
+      "model": "LG LED 43QNED7EB3C",
+      "brand": null,
+      "price_bgn": 399,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "38314",
+      "model": "Metz 65MUD7000Z",
+      "brand": null,
+      "price_bgn": 399.99,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "43827",
+      "model": "Metz 55MQE7600Y",
+      "brand": null,
+      "price_bgn": 408.52,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "39053",
+      "model": "Philips 55PUS7609/12",
+      "brand": null,
+      "price_bgn": 299.99,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40895",
+      "model": "LG LED 50QNED80A3A",
+      "brand": null,
+      "price_bgn": 409,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "40897",
+      "model": "LG LED 55NANO80A3B",
+      "brand": null,
+      "price_bgn": 409,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "45842",
+      "model": "ARIELLI MQLED-55N10T SMART",
+      "brand": null,
+      "price_bgn": 419,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "39047",
+      "model": "Samsung QE55Q60DAUXXH",
+      "brand": null,
+      "price_bgn": 429,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "36522",
+      "model": "Philips 65PUS7608/12",
+      "brand": null,
+      "price_bgn": 439,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "38771",
+      "model": "Philips 65PUS7609/12",
+      "brand": null,
+      "price_bgn": 449,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "43971",
+      "model": "TCL MiniLED 50C6K",
+      "brand": null,
+      "price_bgn": 449,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "44166",
+      "model": "LG LED 65UA73003LA",
+      "brand": null,
+      "price_bgn": 409.99,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44364",
+      "model": "LG LED 55QNED70A6A",
+      "brand": null,
+      "price_bgn": 399,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "44864",
+      "model": "Samsung UE65U8072FUXXH",
+      "brand": null,
+      "price_bgn": 399,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "45785",
+      "model": "LG LED 50QNED7EB3C",
+      "brand": null,
+      "price_bgn": 469,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "44209",
+      "model": "LG LED 65UA73006LA",
+      "brand": null,
+      "price_bgn": 479,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "39757",
+      "model": "Metz 65MQD7500Z",
+      "brand": null,
+      "price_bgn": 490.33,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "35781",
+      "model": "Sony KD43X75WLB",
+      "brand": null,
+      "price_bgn": 399.99,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "37704",
+      "model": "Sony KD55X80LB",
+      "brand": null,
+      "price_bgn": 499,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40898",
+      "model": "LG LED 55QNED80A3A",
+      "brand": null,
+      "price_bgn": 429.99,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "41409",
+      "model": "Samsung QE55Q8FAAUXXH",
+      "brand": null,
+      "price_bgn": 449,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44231",
+      "model": "CHiQ UJA65QM10GP",
+      "brand": null,
+      "price_bgn": 499,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40541",
+      "model": "ARIELLI QLED65F215VDA SMART",
+      "brand": null,
+      "price_bgn": 500.55,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "40889",
+      "model": "LG LED 43QNED87A3D",
+      "brand": null,
+      "price_bgn": 418.99,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "45786",
+      "model": "LG LED 55QNED7EB3C",
+      "brand": null,
+      "price_bgn": 509,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "44431",
+      "model": "TCL QLED 65P7K",
+      "brand": null,
+      "price_bgn": 509.99,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "44033",
+      "model": "Metz 55MNE8000Z",
+      "brand": null,
+      "price_bgn": 510.78,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44332",
+      "model": "ARIELLI QLED65UD10GTV SMART",
+      "brand": null,
+      "price_bgn": 429.99,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "44014",
+      "model": "TCL MiniLED 55C6K",
+      "brand": null,
+      "price_bgn": 529,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "40757",
+      "model": "Sony BRAVIA 3 K43S35PB",
+      "brand": null,
+      "price_bgn": 489,
+      "budget_tier": "low",
+      "size_inch": 43,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "43850",
+      "model": "Metz 65MUF7000Z",
+      "brand": null,
+      "price_bgn": 536.35,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "35775",
+      "model": "Sony KD50X75WLB",
+      "brand": null,
+      "price_bgn": 499.99,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "35305",
+      "model": "Sony KD55X75WLPB",
+      "brand": null,
+      "price_bgn": 549,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40896",
+      "model": "LG LED 50QNED87A3D",
+      "brand": null,
+      "price_bgn": 549,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "41408",
+      "model": "Samsung QE65Q7FAAUXXH",
+      "brand": null,
+      "price_bgn": 519.99,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "43995",
+      "model": "LG LED 65NANO80A3B",
+      "brand": null,
+      "price_bgn": 549,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "43818",
+      "model": "Metz 55MQE8000Z",
+      "brand": null,
+      "price_bgn": 551.68,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44538",
+      "model": "Samsung UE65U8092FUXXH",
+      "brand": null,
+      "price_bgn": 561.91,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44208",
+      "model": "LG LED 65QNED70A6A",
+      "brand": null,
+      "price_bgn": 519,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "40759",
+      "model": "Sony BRAVIA 3 K50S35B",
+      "brand": null,
+      "price_bgn": 589.99,
+      "budget_tier": "low",
+      "size_inch": 50,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "45995",
+      "model": "LG LED 65NU800B3LA",
+      "brand": null,
+      "price_bgn": 599,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "43821",
+      "model": "Metz 65MQE7600Z",
+      "brand": null,
+      "price_bgn": 613.04,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "41410",
+      "model": "Samsung QE65Q8FAAUXXH",
+      "brand": null,
+      "price_bgn": 609.99,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40901",
+      "model": "LG LED 65QNED80A3A",
+      "brand": null,
+      "price_bgn": 639,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "43894",
+      "model": "LG LED 55QNED87A3B",
+      "brand": null,
+      "price_bgn": 649,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "44964",
+      "model": "CHiQ UJA75QM10GP",
+      "brand": null,
+      "price_bgn": 599.99,
+      "budget_tier": "low",
+      "size_inch": 75,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "36698",
+      "model": "ARIELLI LED75N238T2 UHD ANDROID SMART",
+      "brand": null,
+      "price_bgn": 679,
+      "budget_tier": "low",
+      "size_inch": 75,
+      "technology": "LED",
+      "resolution": "4K",
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40761",
+      "model": "Sony BRAVIA 3 K55S35B",
+      "brand": null,
+      "price_bgn": 639,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "35304",
+      "model": "Sony KD65X75WLPB",
+      "brand": null,
+      "price_bgn": 699,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "37824",
+      "model": "LG OLED 42C41LA",
+      "brand": null,
+      "price_bgn": 699,
+      "budget_tier": "low",
+      "size_inch": 42,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "43969",
+      "model": "TCL MiniLED 65C6K",
+      "brand": null,
+      "price_bgn": 679.99,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "38310",
+      "model": "Metz 55MOC9010Y",
+      "brand": null,
+      "price_bgn": 699.99,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "45552",
+      "model": "TCL MiniLED 55C7K",
+      "brand": null,
+      "price_bgn": 714.99,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "40542",
+      "model": "ARIELLI QLED75GT16VDA SMART",
+      "brand": null,
+      "price_bgn": 715.3,
+      "budget_tier": "low",
+      "size_inch": 75,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "44288",
+      "model": "ARIELLI QLED75UD10GTV SMART",
+      "brand": null,
+      "price_bgn": 715.3,
+      "budget_tier": "low",
+      "size_inch": 75,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "44757",
+      "model": "LG LED 55QNED92A6A",
+      "brand": null,
+      "price_bgn": 729,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "43870",
+      "model": "Metz 75MUF7000Z",
+      "brand": null,
+      "price_bgn": 735.75,
+      "budget_tier": "low",
+      "size_inch": 75,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "41367",
+      "model": "LG OLED 42C51LA",
+      "brand": null,
+      "price_bgn": 749,
+      "budget_tier": "low",
+      "size_inch": 42,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "35648",
+      "model": "Philips 48OLED718/12",
+      "brand": null,
+      "price_bgn": 766.43,
+      "budget_tier": "low",
+      "size_inch": 48,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "44341",
+      "model": "Samsung UE75U8092FUXXH",
+      "brand": null,
+      "price_bgn": 766.43,
+      "budget_tier": "low",
+      "size_inch": 75,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "45555",
+      "model": "TCL QLED 75P7K",
+      "brand": null,
+      "price_bgn": 779,
+      "budget_tier": "low",
+      "size_inch": 75,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "40763",
+      "model": "Sony BRAVIA 3 K65S35B",
+      "brand": null,
+      "price_bgn": 799,
+      "budget_tier": "low",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "43966",
+      "model": "Philips 48OLED770/12",
+      "brand": null,
+      "price_bgn": 799,
+      "budget_tier": "low",
+      "size_inch": 48,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "44205",
+      "model": "LG OLED 48B53LA",
+      "brand": null,
+      "price_bgn": 698.99,
+      "budget_tier": "low",
+      "size_inch": 48,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "44267",
+      "model": "Samsung QE55S85FAUXXH",
+      "brand": null,
+      "price_bgn": 799,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "41366",
+      "model": "LG LED 65QNED87A3B",
+      "brand": null,
+      "price_bgn": 849,
+      "budget_tier": "mid",
+      "size_inch": 65,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "41781",
+      "model": "LG LED 75NANO80A3B",
+      "brand": null,
+      "price_bgn": 749,
+      "budget_tier": "low",
+      "size_inch": 75,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "36705",
+      "model": "Sony XR55X90LB",
+      "brand": null,
+      "price_bgn": 899,
+      "budget_tier": "mid",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "43933",
+      "model": "LG OLED 48C51LA",
+      "brand": null,
+      "price_bgn": 799,
+      "budget_tier": "low",
+      "size_inch": 48,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "44758",
+      "model": "LG LED 65QNED92A6A",
+      "brand": null,
+      "price_bgn": 899,
+      "budget_tier": "mid",
+      "size_inch": 65,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "45554",
+      "model": "TCL MiniLED 75C6K",
+      "brand": null,
+      "price_bgn": 899,
+      "budget_tier": "mid",
+      "size_inch": 75,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "40902",
+      "model": "LG LED 75QNED80A3A",
+      "brand": null,
+      "price_bgn": 869.99,
+      "budget_tier": "mid",
+      "size_inch": 75,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "44401",
+      "model": "LG LED 75QNED82A3B",
+      "brand": null,
+      "price_bgn": 919,
+      "budget_tier": "mid",
+      "size_inch": 75,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "35871",
+      "model": "Sony KD55X85LB",
+      "brand": null,
+      "price_bgn": 798.99,
+      "budget_tier": "low",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "спалня",
+          "кухня",
+          "втори телевизор"
+        ],
+        "not_for": [
+          "gaming",
+          "кино атмосфера"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44059",
+      "model": "LG OLED 55B53LA",
+      "brand": null,
+      "price_bgn": 949,
+      "budget_tier": "mid",
+      "size_inch": 55,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "36720",
+      "model": "LG OLED 55G33LA",
+      "brand": null,
+      "price_bgn": 999,
+      "budget_tier": "mid",
+      "size_inch": 55,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "44001",
+      "model": "TCL QLED 85P7K",
+      "brand": null,
+      "price_bgn": 999,
+      "budget_tier": "mid",
+      "size_inch": 85,
+      "technology": "QLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "По-богати цветове от LED",
+          "Висока яркост"
+        ],
+        "weaknesses": [
+          "Контрастът е под MiniLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "QLED — добро съотношение цена/качество в средния сегмент."
+      }
+    },
+    {
+      "id": "44334",
+      "model": "LG OLED 48C5ELB",
+      "brand": null,
+      "price_bgn": 999,
+      "budget_tier": "mid",
+      "size_inch": 48,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "44251",
+      "model": "Samsung QE65S85FAEXXH",
+      "brand": null,
+      "price_bgn": 1019,
+      "budget_tier": "mid",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "40893",
+      "model": "LG OLED 55C51LA",
+      "brand": null,
+      "price_bgn": 998.99,
+      "budget_tier": "mid",
+      "size_inch": 55,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "44227",
+      "model": "Samsung QE55S90FAEXXH",
+      "brand": null,
+      "price_bgn": 1049,
+      "budget_tier": "mid",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "35303",
+      "model": "Sony KD65X85LB",
+      "brand": null,
+      "price_bgn": 948.99,
+      "budget_tier": "mid",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "37833",
+      "model": "LG OLED 55G43LS",
+      "brand": null,
+      "price_bgn": 1099,
+      "budget_tier": "mid",
+      "size_inch": 55,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "40765",
+      "model": "Sony BRAVIA 3 K75S35B",
+      "brand": null,
+      "price_bgn": 1099.99,
+      "budget_tier": "mid",
+      "size_inch": 75,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "45817",
+      "model": "TCL MiniLED 65C7L",
+      "brand": null,
+      "price_bgn": 1139,
+      "budget_tier": "mid",
+      "size_inch": 65,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "40887",
+      "model": "LG LED 75QNED87A3B",
+      "brand": null,
+      "price_bgn": 1169,
+      "budget_tier": "mid",
+      "size_inch": 75,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "40892",
+      "model": "LG OLED 48G53LS",
+      "brand": null,
+      "price_bgn": 1169,
+      "budget_tier": "mid",
+      "size_inch": 48,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "41368",
+      "model": "LG OLED 65B53LA",
+      "brand": null,
+      "price_bgn": 1179,
+      "budget_tier": "mid",
+      "size_inch": 65,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "35128",
+      "model": "Sony OLED XR55A80LB",
+      "brand": null,
+      "price_bgn": 1199,
+      "budget_tier": "mid",
+      "size_inch": 55,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "38122",
+      "model": "Sony KD75X85LB",
+      "brand": null,
+      "price_bgn": 1199,
+      "budget_tier": "mid",
+      "size_inch": 75,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "37706",
+      "model": "Sony XR65X90LB",
+      "brand": null,
+      "price_bgn": 1249,
+      "budget_tier": "mid",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "36176",
+      "model": "Samsung QE65S90CATXXH",
+      "brand": null,
+      "price_bgn": 1299,
+      "budget_tier": "mid",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44442",
+      "model": "LG OLED 55G53LS",
+      "brand": null,
+      "price_bgn": 1299,
+      "budget_tier": "mid",
+      "size_inch": 55,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "44452",
+      "model": "Sony K55XR8APB.CEI",
+      "brand": null,
+      "price_bgn": 1299,
+      "budget_tier": "mid",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44759",
+      "model": "LG LED 75QNED92A6A",
+      "brand": null,
+      "price_bgn": 1319,
+      "budget_tier": "mid",
+      "size_inch": 75,
+      "technology": "MiniLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Висока яркост",
+          "Добър контраст за светла стая"
+        ],
+        "weaknesses": [
+          "Черният цвят е под OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "MiniLED — отлично за светла стая и gaming."
+      }
+    },
+    {
+      "id": "41369",
+      "model": "LG OLED 65C51LA",
+      "brand": null,
+      "price_bgn": 1299,
+      "budget_tier": "mid",
+      "size_inch": 65,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "44087",
+      "model": "LG OLED 55G51LW",
+      "brand": null,
+      "price_bgn": 1299.99,
+      "budget_tier": "mid",
+      "size_inch": 55,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "45023",
+      "model": "Samsung QE65S90FATXXH",
+      "brand": null,
+      "price_bgn": 1399,
+      "budget_tier": "mid",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "45906",
+      "model": "LG OLED 55C61LA",
+      "brand": null,
+      "price_bgn": 1399,
+      "budget_tier": "mid",
+      "size_inch": 55,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "40767",
+      "model": "Sony BRAVIA 3 K85S35PB",
+      "brand": null,
+      "price_bgn": 1499,
+      "budget_tier": "mid",
+      "size_inch": 85,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "38267",
+      "model": "Sony BRAVIA 8 K55XR80B",
+      "brand": null,
+      "price_bgn": 1299,
+      "budget_tier": "mid",
+      "size_inch": 55,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44283",
+      "model": "Sony K65XR8APB.CEI",
+      "brand": null,
+      "price_bgn": 1599,
+      "budget_tier": "mid",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "44220",
+      "model": "LG LED 98UT91006LA",
+      "brand": null,
+      "price_bgn": 1729,
+      "budget_tier": "mid",
+      "size_inch": 98,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "37707",
+      "model": "LG OLED 77C41LA",
+      "brand": null,
+      "price_bgn": 1759,
+      "budget_tier": "mid",
+      "size_inch": 77,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "40894",
+      "model": "LG OLED 65G53LS",
+      "brand": null,
+      "price_bgn": 1799,
+      "budget_tier": "mid",
+      "size_inch": 65,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "41746",
+      "model": "LG OLED 65G51LW",
+      "brand": null,
+      "price_bgn": 1599.99,
+      "budget_tier": "mid",
+      "size_inch": 65,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "45905",
+      "model": "LG OLED 55G61LW",
+      "brand": null,
+      "price_bgn": 1799,
+      "budget_tier": "mid",
+      "size_inch": 55,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "45996",
+      "model": "LG OLED 65C61LA",
+      "brand": null,
+      "price_bgn": 1799,
+      "budget_tier": "mid",
+      "size_inch": 65,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "41782",
+      "model": "LG OLED 77C51LA",
+      "brand": null,
+      "price_bgn": 1899,
+      "budget_tier": "mid",
+      "size_inch": 77,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "38265",
+      "model": "Sony BRAVIA 8 K65XR80PB",
+      "brand": null,
+      "price_bgn": 1799,
+      "budget_tier": "mid",
+      "size_inch": 65,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "семейство",
+          "универсално ползване"
+        ],
+        "not_for": [],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "39354",
+      "model": "Metz 100MQE8500Z",
+      "brand": null,
+      "price_bgn": 2044.66,
+      "budget_tier": "high",
+      "size_inch": null,
+      "technology": "LED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Добра цена",
+          "Надеждна технология"
+        ],
+        "weaknesses": [
+          "По-слаб контраст от QLED/OLED"
+        ],
+        "best_for": [
+          "кино",
+          "gaming",
+          "ентусиасти"
+        ],
+        "not_for": [
+          "много светла стая"
+        ],
+        "pitch": "LED — солиден избор за бюджетен или втори телевизор."
+      }
+    },
+    {
+      "id": "45904",
+      "model": "LG OLED 65G61LW",
+      "brand": null,
+      "price_bgn": 2399,
+      "budget_tier": "high",
+      "size_inch": 65,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "кино",
+          "gaming",
+          "ентусиасти"
+        ],
+        "not_for": [
+          "много светла стая"
+        ],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    },
+    {
+      "id": "41352",
+      "model": "LG OLED 77G51LW",
+      "brand": null,
+      "price_bgn": 2649,
+      "budget_tier": "high",
+      "size_inch": 77,
+      "technology": "OLED",
+      "resolution": null,
+      "refresh_rate": null,
+      "consultation": {
+        "strengths": [
+          "Перфектен черен цвят",
+          "Безкраен контраст"
+        ],
+        "weaknesses": [
+          "По-слаба яркост в светла стая"
+        ],
+        "best_for": [
+          "кино",
+          "gaming",
+          "ентусиасти"
+        ],
+        "not_for": [
+          "много светла стая"
+        ],
+        "pitch": "OLED — референтният стандарт за кино и gaming."
+      }
+    }
+  ]
+}
